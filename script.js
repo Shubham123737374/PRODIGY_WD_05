@@ -1,4 +1,4 @@
-// ✅ TUMHARI API KEY (Jo screenshot me thi)
+
 const apiKey = "1c0f808ac893e0e259f5e6c9061982e2"; 
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
